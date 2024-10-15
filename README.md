@@ -7,16 +7,16 @@ const aboutMe = {
   "pronouns": "He | Him",
   "technologies": {
     "frontend": {
-      "languages": ["JavaScript", "HTML", "CSS"],
+      "languages": ["JavaScript", "CSS", "HTML"],
       "libraries": ["React"],
       "frameworks": ["JQuery", "Bootstrap"]
     },
     "backend": {
-      "languages": ["JavaScript", "PHP", "SQL"],
-      "techs": ["Node.js", "Express.js", "MySQL"],
+      "languages": ["JavaScript", "SQL", "PHP"],
+      "techs": ["Node.js", "Express.js", "MySQL", "MS SQL Server"],
     }
   },
   "versionControl": ["Git"],
-  "misc": ["Python", "VsCode", "Postman", "Deluge"]
+  "misc": ["Python", "VsCode", "Postman", "Deluge", "Twig"]
 }
 ```
